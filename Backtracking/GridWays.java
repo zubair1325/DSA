@@ -11,6 +11,6 @@ public class GridWays {
 
     public static void main(String[] args) {
         int n = 3;
-        System.out.println(totalWays(n, 1, 0, 0));
+        System.out.println(totalWays(51, 9, 0, 0));
     }
 }
